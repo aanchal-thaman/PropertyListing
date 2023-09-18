@@ -4,7 +4,7 @@ This Repository contains a property listing webpage created using react and mong
 
 # Pictures
 
-![alt text](https://https://github.com/aanchal-thaman/PropertyListing/tree/main/Images/home.png)
-![alt text](https://https://github.com/aanchal-thaman/PropertyListing/tree/main/Images/property.png)
-![alt text](https://https://github.com/aanchal-thaman/PropertyListing/tree/main/Images/subscribe.png)
+![alt text](https://github.com/aanchal-thaman/PropertyListing/blob/main/Images/home.png)
+![alt text](https://github.com/aanchal-thaman/PropertyListing/blob/main/Images/property.png)
+![alt text](https://github.com/aanchal-thaman/PropertyListing/blob/main/Images/subscribe.png)
 
